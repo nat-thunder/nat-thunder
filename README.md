@@ -2,7 +2,7 @@
 📚 • estudante de ciência da computação<br>
 🪐 • procurando por experiência e aprendizado!<br>
 📑 • aprendendo **JavaScript**
-
+##
 
 
 <!--
