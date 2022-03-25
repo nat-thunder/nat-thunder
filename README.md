@@ -2,7 +2,7 @@
 📚 • estudante de ciência da computação<br>
 🪐 • procurando por experiência e aprendizado!<br>
 📑 • aprendendo **JavaScript**
-##
+
 
 <!--
 **nat-thunder/nat-thunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
